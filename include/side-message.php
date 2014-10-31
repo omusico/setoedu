@@ -1,0 +1,2 @@
+<h2>Message From The Director</h2>
+<p>SETO ACADEMY has been incorporated with the vision of being a leader in language and cultural studies and further studies in foreign countries. To initiate this project and meet our goals, first we have chosen Japanese language and Japan for some outstanding reasons. <br/><a href="message.php">Read More...</a></p>
